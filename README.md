@@ -1,7 +1,7 @@
 ### Hello World!!! 😊 My name is Charles Jahn
 
 - 🔭 I’m currently looking for a Internship on Web/App Developer
-- 🌱 I’m currently learning String Boots and Java.
+- 🌱 I’m currently learning String Boots, Reeact and Java.
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Charlesjahn&show_icons=true&theme=transparent&include_all_commits=true"
